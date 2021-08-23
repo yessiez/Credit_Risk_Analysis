@@ -83,4 +83,6 @@ The purpose of this analysis was to use imbalanced-learn and scikit-learn librar
 
 ![easyensemble](https://github.com/yessiez/Credit_Risk_Analysis/blob/master/visualizations/easy_ensemble.png?raw=true)
 
-## Analysis
+## Summary
+
+The model that I reccommend to use for predicting high risk loans is the Easy Ensemble Classifying model. It had the highest accuracy score, highest recall rate for high risk and recall rate for low risk. 
